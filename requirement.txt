@@ -1,0 +1,5 @@
+flask
+requests
+aiogram
+google-api-python-client
+aiohttp
